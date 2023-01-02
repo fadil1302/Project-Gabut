@@ -1,0 +1,37 @@
+project gabut
+
+software :
+- power designer
+- mysql
+- php
+- javascript
+- vscode
+- github dan github desktop
+
+
+topik web : website biografi
+
+halaman website  
+1. landing page : 
+2. halaman biografi :
+3. about us, contact, sosmed dll.
+
+basis data
+- ak yg buat: berisi informasi tentang biografi, ditonton kalian
+
+ui/ux
+-mufida
+-hikmah
+
+front end (yg buat ui/ux menjadi halaman website/ cmn main di cssnya)
+- fadil
+- mufida
+- hikmah
+
+backend(suapaya website aman dari hacker dan lebih interaktif)
+-hikmah
+-fadil
+-mufida
+ 
+dl :
+-minggu depan ui/ux ada progres
